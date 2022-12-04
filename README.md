@@ -36,6 +36,3 @@ Second Book is an online e-commerce website for buy and sell used books.
 - Tailwind CSS
 - Stripe
 - DaisyUI
-
-adminEmail: <chowdhuryh999@gmail.com>
-adminPassword: <1234567>
